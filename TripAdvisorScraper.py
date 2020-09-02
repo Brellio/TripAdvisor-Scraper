@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import csv
 
 
-with open('EmailListGAU.csv', 'w') as f:
+with open('EmailList.csv', 'w') as f:
     f.write("Name, Email, URL \n")
 
 
